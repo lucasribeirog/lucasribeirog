@@ -1,8 +1,8 @@
 ### Olá, Sou o Lucas Ribeiro
 
-🔭 Hoje eu trabalho como desenvolvedor back-end na empresa Ger7 Sistemas, do banco C6, mas trabalho um pouco também com o front-end; <br>
+🔭 Hoje eu trabalho como desenvolvedor back-end, mas trabalho um pouco também com o front-end; <br>
 🚀 Atualmente estou desenvolvendo projetos pessoais para impulsionar ainda mais minha carreira como dev<br>
-🌱 Estou estudando typescript, react, Kafka<br>
+🌱 Estou estudando C#, angular, .Net, typescript, react, Kafka<br>
 💻 Minha stack: C#, JavaScript, Html, CSS, Angular, .Net Framework/Core, RabbitMQ <br>
 📧   Entre em contato comigo: !<a href="https://www.linkedin.com/in/lucas-gomes020/">[Linkedin]</a> | <a href="mailto:lucas-ribeiro.silva@unesp.br">[E-mail]</a>
 
