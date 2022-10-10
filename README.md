@@ -1,6 +1,6 @@
 ### Olá, Sou o Lucas Ribeiro
 
-🔭 Hoje eu trabalho como desenvolvedor back-end, mas trabalho um pouco também com o front-end; <br>
+🔭 Hoje eu trabalho como desenvolvedor back-end, mas trabalho um pouco também com o front-end <br>
 🚀 Atualmente estou desenvolvendo projetos pessoais para impulsionar ainda mais minha carreira como dev<br>
 🌱 Estou estudando C#, angular, .Net, typescript, react, Kafka<br>
 💻 Minha stack: C#, JavaScript, Html, CSS, Angular, .Net Framework/Core, RabbitMQ <br>
